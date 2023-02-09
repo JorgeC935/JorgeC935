@@ -11,7 +11,9 @@ U.E. Eduardo Abaroa U.Católica Boliviana
 - Win a scholarship : Thanks to my high grades I received half a university scholarship
 - Win a silver medal in the science olympics : In 2019 I was second in the third stage of the multinational scientific Olympics
 ## Systems Engineer
+I want to learn more about programming and artificial intelligence because it is something that caught my attention since I was little. I also want to learn to make 3d models and develop video games
 ## Objetive
+When I finish university I want to develop video games that implement artificial intelligence to make them more dynamic, I also want to learn about cybersecurity.
 ## Code
 - Python
 - C#
