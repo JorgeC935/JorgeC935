@@ -1,4 +1,6 @@
 # Hi there, Im Jorge Marcelo Cabrera Sanchez 👋
+![Beca-Convenio-Bermejo-1024x576  aaaa](https://user-images.githubusercontent.com/124790994/217909012-68197f81-88dc-41ba-a8e2-de4392e1e30c.jpg)
+
 ## School/University
 U.E. Eduardo Abaroa U.Católica Boliviana
 ## Hobbies
